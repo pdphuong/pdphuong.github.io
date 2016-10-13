@@ -5,7 +5,9 @@ main:
 
   - title: "Research"
     url: /research.md
+    
   - title "Publication"
     url: /pub.md
+    
   -title: "Teaching"
     url: /teach.md
