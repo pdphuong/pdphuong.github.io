@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Phuong \"Frank\" Pham"
 title_separator          : "-"
 name                     : "Phuong Pham"
 description              : "Pieces of Me."
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Phuong Pham"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Davis, CA"
+  email            : pdpham@ucdavis.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : github.com/pdphuong
   google_plus      :
   keybase          :
   instagram        :
